@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.heddle</groupId>
-    <artifactId>mdi_radar</artifactId>
+    <artifactId>mdi-radar</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>mdi_radar</name>
+    <name>mdi-radar</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
