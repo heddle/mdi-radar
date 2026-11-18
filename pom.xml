@@ -5,7 +5,7 @@
 
     <groupId>io.github.heddle</groupId>
     <artifactId>mdi-radar</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>mdi-radar</name>
@@ -19,7 +19,7 @@
         <dependency>
             <groupId>io.github.heddle</groupId>
             <artifactId>mdi</artifactId>
-            <version>1.2.3</version>
+            <version>1.2.4</version>
         </dependency>
 
         <dependency>
